@@ -1,22 +1,16 @@
 ## Hey 👋, I'm boppe!  
-  
-
 <a href="https://github.com/boppescripting" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=boppescripting&&style=flat-square) 
 
-
-### Glad to see you here!  
+## Glad to see you here!  
 I’m a full-stack developer who has turned years of freelancing into a part-time career. Being a full-stack developer allows me to not only develop client-facing apps and websites, but also develop it with cutting edge backend support.
-  
-
 <br/>  
 
-
 ## Languages and Tools  
-<div align="center">  
+<div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -37,27 +31,9 @@ I’m a full-stack developer who has turned years of freelancing into a part-tim
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a> 
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=boppescripting&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boppescripting&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=boppescripting&&style=flat-square)  
+<img src="https://github-readme-stats.vercel.app/api?username=boppescripting&show_icons=true&count_private=true&hide_border=true" align="left" width="395.217px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boppescripting&hide_border=true&layout=compact" align="left" width="395.217px" />
