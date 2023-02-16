@@ -35,5 +35,5 @@ I’m a full-stack developer who has turned years of freelancing into a part-tim
 </div>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=boppescripting&show_icons=true&count_private=true&hide_border=true" align="left" width="395.217px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boppescripting&hide_border=true&layout=compact" align="left" width="395.217px" />
+![](https://raw.githubusercontent.com/boppescripting/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/boppescripting/github-stats/master/generated/languages.svg#gh-dark-mode-only)
