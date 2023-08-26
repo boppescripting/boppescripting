@@ -34,6 +34,7 @@ I’m a full-stack developer who has turned years of freelancing into a part-tim
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a> 
 </div>  
 
-## Github Stats  
-![](https://raw.githubusercontent.com/boppescripting/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/boppescripting/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+## Github Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boppescripting&show_icons=true&theme=github_dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boppescripting&theme=github_dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
